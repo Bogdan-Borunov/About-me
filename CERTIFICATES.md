@@ -13,3 +13,6 @@
 ### 🚀 First Personal Project
 
 [![Сертификат Boot.dev — First Personal Project](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4a2156f2-cca2-40c9-80b6-fc0a630e4bbd.jpeg?v=1790268673)](https://www.boot.dev/certificates/4a2156f2-cca2-40c9-80b6-fc0a630e4bbd)
+
+### 🐍 Functional programming in python
+[![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/660d2ba6-2a39-440e-876a-7087b0611351.jpeg?v=1793624945)](https://www.boot.dev/certificates/660d2ba6-2a39-440e-876a-7087b0611351)
